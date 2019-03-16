@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="padding_horizontal">12dp</dimen>
+  <dimen name="padding_vertical_small">8dp</dimen>
+  <dimen name="padding_vertical">8dp</dimen>
+  <dimen name="padding_vertical_big">12dp</dimen>
+  <dimen name="search_height">40dp</dimen>
+
+  <dimen name="vertical_premium">24sp</dimen>
+
+  <dimen name="button_large_min_width">100dp</dimen>
+  <dimen name="text_title_size">22sp</dimen>
+  <dimen name="text_primary_size">16sp</dimen>
+  <dimen name="text_customized_size">18sp</dimen>
+  <dimen name="text_secondary_size">14sp</dimen>
+  <dimen name="size_profit_width">90dp</dimen>
+  <dimen name="chart_type_height">30dp</dimen>
+
+  <dimen name="text_chart_type">12sp</dimen>
+
+  <dimen name="divider_highlight">3dp</dimen>
+  <dimen name="divider_highlight_negative">-4dp</dimen>
+
+  <dimen name="divider_negative">-2dp</dimen>
+  <dimen name="divider">1dp</dimen>
+
+  <dimen name="list_normal_item_height">40dp</dimen>
+  <dimen name="border_radius">7dp</dimen>
+
+  <dimen name="height_arrow">20dp</dimen>
+  <dimen name="width_arrow">20dp</dimen>
+
+  <dimen name="tab_bar_height">@dimen/list_normal_item_with_icon_height</dimen>
+
+  <dimen name="normal_radius">7dp</dimen>
+
+  <dimen name="list_normal_item_with_icon_height">58dp</dimen>
+
+  <dimen name="large_conner_radius">20dp</dimen>
+  <dimen name="widget_space">8dp</dimen>
+
+  <dimen name="list_xlarge_item_height">40dp</dimen>
+
+  <dimen name="height_chart_type">40dp</dimen>
+
+  <dimen name="height_item_more">30dp</dimen>
+
+  <dimen name="list_large_item_height">40dp</dimen>
+  <dimen name="content_large_space">4dp</dimen>
+  <dimen name="content_normal_space">2dp</dimen>
+
+  <dimen name="text_purchase_title_size">15sp</dimen>
+  <dimen name="text_purchase_sub_title_size">13sp</dimen>
+
+  <dimen name="text_activity_full_chart_title">14sp</dimen>
+
+  <dimen name="height_value_cell">30dp</dimen>
+
+  <dimen name="padding_left_edit_text">4dp</dimen>
+
+  <dimen name="padding_cell_full_chart">6dp</dimen>
+
+  <dimen name="tool_bar_small_space">7dp</dimen>
+  <dimen name="setting_country_width">50dp</dimen>
+  <dimen name="setting_country_height">30dp</dimen>
+
+  <dimen name="more_space">15dp</dimen>
+</resources>

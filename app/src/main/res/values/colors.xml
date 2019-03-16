@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#19191C</color>
+  <color name="colorPrimaryDark">#19191C</color>
+  <color name="colorBackgroundPrimary">#1b1b1b</color>
+
+  <color name="colorBackgroundPrimarySecond">#CC1b1b1b</color>
+
+  <color name="colorBackground">#CC1b1b1b</color>
+  <color name="colorAccent">#FFCC01</color>
+
+  <color name="colorAccentSecond">#66FFCC01</color>
+
+  <color name="colorIcon">#2ecc71</color>
+
+  <color name="textColorPrimary">#FFFFFF</color>
+  <color name="textColorSecond">#B0B1B3</color>
+
+  <color name="textColorHighlight">#FFCC01</color>
+
+  <color name="colorPositive">#35C759</color>
+  <color name="colorNegative">#FF3A30</color>
+
+  <color name="colorHighlight">#e7bb41</color>
+
+  <color name="colorHighlightDisable">#80e7bb41</color>
+
+  <color name="colorTransparent">#00000000</color>
+
+
+
+  <color name="test">#FFCC01</color>
+  <color name="bg_financial_detail">#4c4c4f</color>
+
+  <color name="textColorTertiary">#8B919F</color>
+
+  <color name="colorDivider">#3E3E3E</color>
+
+  <color name="colorBackgroundAlert">#F2434343</color>
+  <color name="splash_background">#283141</color>
+
+  <color name="colorMenuPrimary">#2C3642</color>
+
+  <color name="login_email">#BD061C</color>
+
+  <color name="full_chart_top_bg">#1f2734</color>
+
+  <color name="border_edit_text">#4D6B7176</color>
+
+  <color name="full_chart_main_chart_bg">#13151C</color>
+
+
+</resources>
