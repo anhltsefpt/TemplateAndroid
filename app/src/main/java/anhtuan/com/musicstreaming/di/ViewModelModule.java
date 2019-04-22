@@ -8,9 +8,9 @@ import anhtuan.com.musicstreaming.fragment.PlayListViewModel;
 import anhtuan.com.musicstreaming.fragment.SearchViewModel;
 import anhtuan.com.musicstreaming.fragment.SplashViewModel;
 import anhtuan.com.musicstreaming.viewmodel.AppViewModelFactory;
+import anhtuan.com.musicstreaming.viewmodel.ListTrackViewModel;
 import dagger.Binds;
 import dagger.Module;
-import dagger.android.ContributesAndroidInjector;
 import dagger.multibindings.IntoMap;
 
 @Module
@@ -42,4 +42,9 @@ abstract class ViewModelModule {
   @IntoMap
   @ViewModelKey(PlayListViewModel.class)
   abstract ViewModel bindPlayListViewModel(PlayListViewModel playListViewModel);
+
+  @Binds
+  @IntoMap
+  @ViewModelKey(ListTrackViewModel.class)
+  abstract ViewModel bindListTrackViewModel(ListTrackViewModel listTrackViewModel);
 }

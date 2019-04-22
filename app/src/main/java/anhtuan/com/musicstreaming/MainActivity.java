@@ -24,9 +24,9 @@ public class MainActivity extends BaseActivity implements HasSupportFragmentInje
   @Inject
   NavigationController mNavigationController;
 
-  public static final int MY_LIBRARY = 0;
+  public static final int MY_LIBRARY = 2;
   public static final int PLAYLIST = 1;
-  public static final int SEARCH = 2;
+  public static final int SEARCH = 0;
   public static final int MORE = 3;
 
   Menu mMenu;

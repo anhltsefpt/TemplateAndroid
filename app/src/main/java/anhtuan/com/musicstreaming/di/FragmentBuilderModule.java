@@ -1,5 +1,6 @@
 package anhtuan.com.musicstreaming.di;
 
+import anhtuan.com.musicstreaming.fragment.ListTrackFragment;
 import anhtuan.com.musicstreaming.fragment.MoreFragment;
 import anhtuan.com.musicstreaming.fragment.MyLibraryFragment;
 import anhtuan.com.musicstreaming.fragment.PlayListFragment;
@@ -20,4 +21,7 @@ public abstract class FragmentBuilderModule {
 
   @ContributesAndroidInjector
   abstract MoreFragment contributeMoreFragment();
+
+  @ContributesAndroidInjector
+  abstract ListTrackFragment contributeListTrackFragment();
 }
